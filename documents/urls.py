@@ -8,5 +8,6 @@ urlpatterns = [
     path('edit/<int:pk>/', views.DocumentUpdateView.as_view(), name='document_edit'),
     path('delete/<int:pk>/', views.DocumentDeleteView.as_view(), name='document_delete'),
     
+    path('ask/<int:doc_id>', views.ask_question, name='ask_question'), 
     
 ]

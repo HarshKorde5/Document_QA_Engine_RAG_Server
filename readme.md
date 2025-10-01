@@ -20,6 +20,15 @@ A Django-based web application that allows users to upload documents (PDF, TXT, 
   - Django templates with Bootstrap styling
   - Pages: Upload, Document List, Delete, Edit, Ask Question
 
+- **Snapshots**
+![](screenshots/2.png)
+![](screenshots/1.png)
+![](screenshots/3.png)
+![](screenshots/4.png)
+![](screenshots/5.png)
+![](screenshots/7.png)
+![](screenshots/8.png)
+
 ## Prerequisites
 
 - Python 3.8+
